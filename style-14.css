@@ -1,0 +1,251 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    font-family: B nazanin;
+}
+.all{
+    max-width: 1280px;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.text_head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: blue;
+}
+.img_header{
+    width: 600px;
+    height: 250px;
+}
+.text-img{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+}
+.subject-text{
+font-family: b titr;
+}
+.text-header{
+    font-size: 18px;
+    margin-top: 15px;
+}
+.section{
+    width: 1280px;
+    height: 500px;
+    background-color: #BDBDBD;
+    margin-top: 80px;
+}
+.h2_section{
+    padding-top: 20px;
+    padding-right: 20px;
+    font-family: b titr;
+    color: white;
+}
+.mahsool_1{
+    margin-top: 40px;
+    margin-right: 20px;
+    width: 300px;
+    height: 300px;
+}
+.mahsool_2{
+    margin-top: 40px;
+    margin-right: 20px;
+    width: 300px;
+    height: 300px;
+}
+.mahsool_3{
+    margin-top: 40px;
+    margin-right: 20px;
+    width: 300px;
+    height: 300px;
+}
+.all_mahsool{
+    display: flex;
+    justify-content: space-around;
+}
+.img_mahsool_1{
+    width: 250px;
+    height: 250px;
+}
+.h6_mahsool_1{
+    font-size: 20px;
+    font-family: Arial;
+    color: white;
+}
+.p_mahsool_1{
+    font-size: 18px;
+    color: white;
+}
+.ofer{
+    color: black;
+    font-size: 18px;
+}
+.gm_sd_1{
+    display: flex;
+    justify-content: space-between;
+}
+.shopping{
+    width: 30px;
+    margin-left: 10px;
+}
+.shopping:hover{
+    cursor: pointer;
+}
+.img_mahsool_1:hover{
+    cursor: pointer;
+}
+.h6_mahsool_1:hover{
+    cursor: pointer;
+    color: blue;
+    transition: 500ms;
+    -webkit-transition: 500ms;
+    -moz-transition: 500ms;
+    -ms-transition: 500ms;
+    -o-transition: 500ms;
+}
+.mouse{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.h6_mahsool_1-2{
+    font-size: 20px;
+    font-family: Arial;
+    color: black;
+}
+.p_mahsool_1-2{
+    font-size: 18px;
+    color: black;
+}
+.ofer-2{
+    color: gray;
+    font-size: 18px;
+}
+.gm_sd_1-2{
+    display: flex;
+    justify-content: space-between;
+}
+.shopping-2{
+    width: 30px;
+    margin-left: 10px;
+}
+.shopping-2:hover{
+    cursor: pointer;
+}
+.img_mahsool_1-2:hover{
+    cursor: pointer;
+}
+.h6_mahsool_1-2:hover{
+    cursor: pointer;
+    color: blue;
+    transition: 500ms;
+    -webkit-transition: 500ms;
+    -moz-transition: 500ms;
+    -ms-transition: 500ms;
+    -o-transition: 500ms;
+}
+.h2_mouse{
+    font-family: b titr;
+}
+.kibord{
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-around;
+}
+.h6_mahsool_1-2-3{
+    font-size: 20px;
+    font-family: Arial;
+    color: black;
+}
+.p_mahsool_1-2-3{
+    font-size: 18px;
+    color: black;
+}
+.ofer-2-3{
+    color: gray;
+    font-size: 18px;
+}
+.gm_sd_1-2-3{
+    display: flex;
+    justify-content: space-between;
+}
+.shopping-2-3{
+    width: 30px;
+    margin-left: 10px;
+}
+.shopping-2-3:hover{
+    cursor: pointer;
+}
+.img_mahsool_1-2-3:hover{
+    cursor: pointer;
+}
+.h6_mahsool_1-2-3:hover{
+    cursor: pointer;
+    color: blue;
+    transition: 500ms;
+    -webkit-transition: 500ms;
+    -moz-transition: 500ms;
+    -ms-transition: 500ms;
+    -o-transition: 500ms;
+}
+.h2_kibord{
+    font-family: b titr;
+}
+.img_mahsool_1-3{
+    width: 300px;
+}
+.footer{
+    width: 1280px;
+    height: 50px;
+    background-color: #BDBDBD;
+    margin-top: 80px;
+}
+.input_text{
+    padding-top: 15px;
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+.h2_footer{
+    color: white;
+    font-family: b zar;
+    font-size: 16px;
+}
+.email{
+    border: none;
+    border-radius: 4px;
+    font-family: b nazanin;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+.submit{
+    border: none;
+    color: gray;
+    font-family: b nazanin;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+.copyright{
+    text-align: center;
+    margin-top: 10px;
+    color: gray;
+    font-family: Arial;
+}
